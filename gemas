@@ -1,0 +1,21 @@
+# Comandos para manejar la gemas
+
+#--- 1. Versión del manejador de gemas
+
+$ gem --version
+
+#--- 2. Actualizar el manejador de gemas
+
+$ gem update --system
+
+#--- 3.- Para listar las gemas instaladas localmente
+
+$ gem list
+
+#--- 4. Instalar gemas
+
+$ gem install nombre_gema
+
+#--- 5. Desinstalar gemas
+
+$ gem uninstall nombra_gema
